@@ -25,3 +25,10 @@ You can now start writing new chapters by creating new files under the `chapter`
 in `main.tex`, where specified
 
 *p.s. all the images should be put under the `images` folder*
+
+
+
+## Example
+
+You can see an example of this template in my [*ROBOTICS* lecture notes](https://github.com/regi18/Robotics_LectureNotes/blob/master/main.pdf)
+[](example.pdf)
