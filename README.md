@@ -31,4 +31,5 @@ in `main.tex`, where specified
 ## Example
 
 You can see an example of this template in my [*ROBOTICS* lecture notes](https://github.com/regi18/Robotics_LectureNotes/blob/master/main.pdf)
+
 ![](example.png)
